@@ -14,4 +14,4 @@ Right now, my biggest excitement is stepping into the world of **Data Analytics*
 * **Currently Learning:** Python for Data Science
 * **Tools:** Git, GitHub, VS Code
 
-📫 **Reach me at:** [bencikeylul@gmail.com](mailto:bencikeylul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eylul-bencik/)
+📫 **Reach me at:** [bencikeylul@gmail.com](mailto:bencikeylul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eylulbencik/)
