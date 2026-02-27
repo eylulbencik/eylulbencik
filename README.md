@@ -1,17 +1,17 @@
-## Hi there 👋, I'm Eylül!
+# Hi there 👋, I'm Eylül!
 
-I am a 2nd-year Computer Engineering student with a solid academic foundation in algorithms, data structures, and Object-Oriented Programming (C/C++, Java). 
+I am a **2nd-year Computer Engineering student at Yaşar University**. I am currently focusing on building a robust engineering foundation while diving deep into the world of **Data Analytics**.
 
-Right now, my biggest excitement is stepping into the world of **Data Analytics** and **Machine Learning**. I am currently taking my first steps to build my skills in this area from the ground up. I am looking for voluntary summer internship opportunities where I can learn from experienced professionals, apply my engineering background, and grow in a data-driven environment.
+### 🚀 What I'm Up To:
+* **Learning:** Actively mastering the **essential requirements of Data Analytics** through comprehensive bootcamps and curated courses, focusing on data manipulation, statistical foundations, and exploratory analysis.
+* **Coding:** Building a diverse portfolio that includes **data-driven Python projects** alongside **C++, C, and Java applications** to strengthen my software engineering and algorithmic skills.
+* **Academic Focus:** Enhancing my knowledge of **Algorithm Analysis** and **Data Structures**, while currently mastering **Java** as part of my university coursework.
 
-### 🔭 What I'm Up To:
-* **Learning:** Starting my journey in Python, data manipulation, and visualization through a comprehensive 50-hour bootcamp.
-* **Coding:** Building a daily coding habit by pushing my beginner-level Python exercises to my learning repository.
-* **Improving:** Enhancing my C++ algorithmic visualization projects.
+### 🛠 My Current Toolbox:
 
-### 🛠️ My Current Toolbox:
-* **Strong Foundation:** C++, Java, C, Algorithm Analysis, Data Structures
-* **Currently Learning:** Python for Data Science
-* **Tools:** Git, GitHub, VS Code
+* **Academic Foundation:** C, C++, Algorithm Analysis, Data Structures.
+* **Current Learning Path (Data Analytics):** Building skills in **Python** (Pandas, NumPy) and **SQL** while exploring the fundamentals of Statistics and Machine Learning through online certifications.
+* **Software Development:** Currently learning **Java** (Object-Oriented Programming focus) as part of my university curriculum.
+* **Tools:** Git, GitHub, VS Code.
 
-📫 **Reach me at:** [bencikeylul@gmail.com](mailto:bencikeylul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eylulbencik/)
+📩 **Reach me at:** [bencikeylul@gmail.com](mailto:bencikeylul@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eylulbencik/)
